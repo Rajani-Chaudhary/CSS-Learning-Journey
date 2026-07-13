@@ -1,13 +1,20 @@
-h1{
-    color: rgb(169, 40, 40);
-}
 p{
-    color: black;
+    color: rgb(234, 19, 19);
 }
 body{
-    background-color: aquamarine;
+    background-color: rgb(126, 248, 207);
 }
 button{
     color: rgb(254, 11, 68);
     background-color: black;
+}
+
+#headingone{
+    color: rgb(240, 134, 29);
+}
+#headingtwo{
+    color: blue;
+}
+.myclass{
+    color: rgb(241, 117, 200);
 }
