@@ -1,0 +1,14 @@
+*{
+    font-family:'Franklin Gothic Medium';
+    line-height: 50px;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#inner{
+    font-size: 10px ;
+}
+#outer{
+    font-size: 25px;
+}
