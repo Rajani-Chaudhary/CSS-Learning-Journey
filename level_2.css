@@ -1,0 +1,21 @@
+h1{
+    height:50px;
+    background-color: blueviolet;
+    width: 150px;
+    
+}
+p{
+    border-color: black;
+    border-width: 6px;
+    border-style:dashed;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 4px solid rgb(161, 8, 8);
+    /*text-align: left;*/
+    padding-left: 20px;
+    margin: 25;
+}    
+    
