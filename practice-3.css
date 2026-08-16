@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+#navbar {
+    height: 60px;
+    background-color: #0f0f0f;
+}
+button{
+    background-color:  #f5971b;
+}
+#logo{
+    color:  #f5971b;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}
